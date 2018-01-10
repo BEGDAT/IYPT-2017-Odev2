@@ -6,7 +6,7 @@ Grup arkadaşlarımla beraber soruları araştırırken gözümüz bu sorunun is
 
 # Materyal ve Yöntem (Experimental Setup)
 Projemizin ikinci aşaması deney aşamasıdır.Bu aşamada projemiz için izlediğimiz yoldan bahsedeceğim.(veri toplama,yöntem,materyal hazırlama v.b.)
-	1.DENEYE BAŞLAMADAN ÖNCE VERİ TOPLAMA
+##	1.DENEYE BAŞLAMADAN ÖNCE VERİ TOPLAMA
    Söylediğim gibi bu soru hakkında pek fazla kaynak bulamadığımız için kaynak konusunda hocamıza danıştık.Hocamızın attığı linkler  doğrultusunda yapmamız gereken deney hakkında bilgi topladık.Topladığımız bilgileri bir araya getirerek bir plan yaptık.Bu plan doğrultusunda da deneyimizi yapmaya koyulduk.
 
 ##	2.DENEY ORTAMI
