@@ -20,7 +20,7 @@ Projemizin ikinci aşaması deney aşamasıdır.Bu aşamada projemiz için izled
     -Su ısıtıcısı
 
 ##	4.DENEYİ YAPANLAR VE DENEYİN NE KADAR SÜRDÜĞÜ
-   Deneyi grupça yaptık yani Eyna,Bengisu ve ben.Okulda yaptığımız deney yaklaşık --- dakika kadar sürdü.(Arada yaptığımız yorumlar dahil.)    
+   Deneyi grupça yaptık yani Eyna,Bengisu ve ben.Okulda yaptığımız deney yaklaşık 30 dakika kadar sürdü.(Arada yaptığımız yorumlar dahil.)    
 
 ##		5.YÖNTEM
    Önce kabımıza su doldurduk.Daha sonra su dolu kabı masaya yerleştirerek deneyimizin ilk adımına geçtik.İlk olarak yaklaşık bir karış mesafeden tutarak erittik parafini suya düşen parçaların soğumasını bekledik (ki neredeyse anında soğudu.) ve şekili çıkarıp inceledik.Parafini fazla uzaktan eritmediğimiz için elde ettiğimiz şekli neredeyse hiç derinliği yoktu ve su belli bir yükseklikten düştüğü için suyu dalgalandırdı ve su dalgalanınca akan her bir damla bir önce damlayanın yanına düştü.Bunun sonucunda elde ettiğimiz şekil ‘C’ harfine benzedi.Sonra elde ettiğimiz ilk şekli bir kenara koyduk.Bu sefer daha yükseğe kaldırdık parafini ve böyle erittik.Böyle olunca elde ettiğimiz şeklin derinliği bir öncekine göre arttı ve şekli daha çok ‘u’ harfine benzedi.Bence elde etmemiz gerken sonuçta şeklin derinleşmesiydi.Elde ettiğimiz ikinci şekli ; ilk şeklin yanına koyduk.Üçüncü seferimizde kabımızı yere koymaya karar verdik.Bu şekilde yaptığımızda artık şeklimizin elle tutulur bir derinliği vardıve şekli genişçe bir ‘c’ gibi oldu.Son olarak parafinimizi suyumuzun hemen dibinden tutmaya karar verdik.Bunu yaptığımızda suya düşen damlaların suyun yüzeyini çok az dalgalandırdığını ve bu yüzdende damlaların üst üste düştüğünü gördük.Deneyimizi başarıyla tamamladığımızı düşünüyoruz.
